@@ -1,0 +1,37 @@
+1. Importing the packages
+2. Exploring the dataset - Solar Power Forecast data
+3. Feature Selection 
+	- Selecting the X and y for pandas dataframe	
+4. Visualization of Data based on SVR-PSO
+5. Splitting the data to train and test
+6. building the model
+	1. Machine Learning
+		- SVR - PSO
+		- GA-SVR
+		- SVR
+		- GPR
+		- Persistence with SVR
+		- Voting Regression(LR + RFR + KNN)
+		- Stacking Regression (RidgeCv + SVR + RFR)
+	
+	2. Deep Learning
+		- ANN 
+		- LSTM
+7.training the model
+8.building the model Voting Classifier since it gives better r2-score
+
+Flask Framework
+-----------------
+9. Flask Framework with Sqlite for signup and signin
+10. User gives input
+11. the given input preprocessed and with trained model is used for predicting the performance 
+12. final outcome is displayed
+
+
+Extension
+-----------
+
+In the base paper, the author mentioned few Machine and Deep Learning models,in which SVR less MSE value,
+As an extension we have applied Voting regression, stacking regression and LSTM for analysis Dataset, in which 
+Voting Regression got 99% R2-Score,
+So with Voting Regression we build the model is used for predicting the result with in the frontend.
