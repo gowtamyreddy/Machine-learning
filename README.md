@@ -15,14 +15,14 @@ Machine learning and Deep learning
 
 # IMPLEMENTATION
 
-1)Data exploration: using this module we will load data into the system
-2)Processing: Using the module we will read data for processing
-3)Splitting data into train & test: using this module data will be divided into train & test
+1)Data exploration: using this module we will load data into the system<br>
+2)Processing: Using the module we will read data for processing<br>
+3)Splitting data into train & test: using this module data will be divided into train & test<br>
 4)Model generation:
-    Machine Learning - SVR - PSO - GA-SVR - SVR - GPR - Persistence with SVR - Voting Regression(LR + RFR + KNN) - Stacking Regression (RidgeCv + SVR + RFR) 
-    Deep Learning - ANN – LSTM. Algorithms accuracy calculated
-5)User signup & login: Using this module will get registration and login
-6)User input: Using this module will give input for prediction
+    Machine Learning - SVR - PSO - GA-SVR - SVR - GPR - Persistence with SVR - Voting Regression(LR + RFR + KNN) - Stacking Regression (RidgeCv + SVR + RFR) <br>
+    Deep Learning - ANN – LSTM. Algorithms accuracy calculated<br>
+5)User signup & login: Using this module will get registration and login<br>
+6)User input: Using this module will give input for prediction<br>
 7)Prediction: final predicted displayed
 
 
