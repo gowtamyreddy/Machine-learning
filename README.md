@@ -13,7 +13,7 @@ Machine learning and Deep learning
 3)	RAM: 4GB AND ABOVE
 4)	HARD DISK: 50 GB
 
-# IMPLIMENTATION
+# IMPLEMENTATION
 
 1)Data exploration: using this module we will load data into the system
 2)Processing: Using the module we will read data for processing
