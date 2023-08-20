@@ -30,6 +30,7 @@ Machine learning and Deep learning
 
 
 
+![Screenshot 2023-08-19 230854](https://github.com/gowtamyreddy/Machine-learning/assets/142113089/d151062b-3592-4f42-86ef-23300d4735e0)
 
 
 [Screenshot 2023-08-19 230854](https://github.com/gowtamyreddy/Machine-learning/assets/142113089/55ee7fbc-1cfc-4eee-86fe-387b30392f02)
