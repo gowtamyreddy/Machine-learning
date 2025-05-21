@@ -1,4 +1,4 @@
-# Solar_powerGeneration_prediction
+# SolarPowerGenerationPrediction
 
 This project entitled is useful to the power distribution companies to plan the other conventional power requirements based on the solar power. Accurate power planning leads to less power failures. Less number of power failures leads to more industrial growth.
 
