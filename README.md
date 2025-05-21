@@ -1,5 +1,6 @@
-# ML_and_DL
-Machine learning and Deep learning
+# Solar_powerGeneration_prediction
+
+This project entitled is useful to the power distribution companies to plan the other conventional power requirements based on the solar power. Accurate power planning leads to less power failures. Less number of power failures leads to more industrial growth.
 
 # SOFTWARE REQUIREMENTS
  1)	Visual Studio Community Version
@@ -31,4 +32,14 @@ Machine learning and Deep learning
 
 
 ![Screenshot 2023-08-19 230854](https://github.com/gowtamyreddy/Machine-learning/assets/142113089/d151062b-3592-4f42-86ef-23300d4735e0)
+
+ ![UI 1](https://github.com/gowtamyreddy/Solar_powerGeneration_prediction/assets/142113089/5a0b1833-4d36-4c56-bf30-7990c7e27ec3)
+
+
+
+<br>
+<br>
+
+
+![UI2](https://github.com/gowtamyreddy/Solar_powerGeneration_prediction/assets/142113089/066ed661-07c6-4c73-a9a9-532942f47f15)
 
